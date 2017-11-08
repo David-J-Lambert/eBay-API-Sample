@@ -1,4 +1,2 @@
 # eBay-API-Sample
-Python that fetches all items on sale on eBay that have a particular UPC (Universal Product Code).
-
-Uses the eBay API.
+Python that uses the eBay API to fetch all items on sale on eBay that have a particular UPC (Universal Product Code).
