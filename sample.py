@@ -1,11 +1,20 @@
-"""
-Fetch title, current price, and currency name for all eBay items with UPC
-753759077600, using HTTP GET.
+""" sample.py
+REPOSITORY:
+  https://github.com/DavidJLambert/eBay-API-Sample
 
-Author: David Joel Lambert
-Date: November 1, 2017
+SUMMARY:
+  Fetch title, current price, and currency name for all eBay items with UPC
+  753759077600, using HTTP GET.
+  Written for Python 2.7.
 
-Written for Python 2.7
+AUTHOR:
+  David J. Lambert
+
+VERSION:
+  0.1.1
+
+DATE:
+  May 31, 2019
 """
 
 # IMPORTS
