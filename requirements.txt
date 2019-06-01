@@ -1,0 +1,17 @@
+# requirements.txt
+# REPOSITORY:
+#   https://github.com/DavidJLambert/eBay-API-Sample
+#
+# SUMMARY:
+#   Scans XML exports of the Windows Event Log and reports summary statistics.
+#
+# AUTHOR:
+#   David J. Lambert
+#
+# VERSION:
+#   0.1.1
+#
+# DATE:
+#   May 31, 2019
+
+# EMPTY, NOTHING REQUIRED
